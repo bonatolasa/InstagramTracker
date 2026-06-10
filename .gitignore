@@ -3,3 +3,4 @@ __pycache__/
 instagram_tracking/*.json
 instagram_tracking/history/
 node_modules/
+dist/
